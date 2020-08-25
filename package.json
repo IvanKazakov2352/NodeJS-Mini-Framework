@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-framework",
+  "version": "1.0.0",
+  "description": "Node JS Framework",
+  "main": "framework.js",
+  "scripts": {
+    "test": "Node JS"
+  },
+  "keywords": [
+    "Node",
+    "JS"
+  ],
+  "author": "IvanKazakov <ivan.kazakov3344@gmail.com>",
+  "license": "ISC"
+}
